@@ -1,0 +1,3 @@
+ansible_host: 10.0.0.4
+#ansible_user: lewis
+#ansible_password: lewis
